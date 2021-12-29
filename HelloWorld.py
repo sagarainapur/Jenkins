@@ -6,7 +6,7 @@ print("Hello World Demo...\n")
 print("Hello World Demo...\n")
 print("Hello World Demo...\n")
 
-
+print("Poll SCM - This will trigger the build in the Jenkins ...\n")
 
 
 
